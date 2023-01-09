@@ -1,0 +1,11 @@
+body{
+    font-family: 'Courier New', Courier, monospace;    
+}
+.redp{
+    color:red;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+span{
+    font-style: italic;
+}
